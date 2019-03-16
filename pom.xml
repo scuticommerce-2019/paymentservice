@@ -14,6 +14,10 @@
     <name>paymentservice</name>
     <description>paymentservice</description>
     <dependencies>
-
+        <dependency>
+            <groupId>com.scuticommerce</groupId>
+            <artifactId>core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 </project>
